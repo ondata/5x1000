@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="558" height="272" viewBox="0 0 558 272">
+  <defs>
+    <filter id="example-5x1000-a" width="108%" height="116.9%" x="-4%" y="-8.5%" filterUnits="objectBoundingBox">
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0811820652 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" filter="url(#example-5x1000-a)" transform="translate(9 7)">
+    <rect width="540" height="254" fill="#F9F9F9" fill-rule="nonzero" rx="8"/>
+    <g transform="translate(36 165)">
+      <g transform="translate(130)">
+        <polyline stroke="#021B44" points="30.273 24 30.273 46 0 46 0 24 0 24"/>
+        <polyline stroke="#021B44" points="60.545 24 60.545 46 30.273 46 30.273 24 30.273 24"/>
+        <polyline stroke="#021B44" points="90.818 24 90.818 46 60.545 46 60.545 24 60.545 24"/>
+        <polyline stroke="#021B44" points="121.091 24 121.091 46 90.818 46 90.818 24 90.818 24"/>
+        <polyline stroke="#021B44" points="151.364 24 151.364 46 121.091 46 121.091 24 121.091 24"/>
+        <polyline stroke="#021B44" points="181.636 24 181.636 46 151.364 46 151.364 24 151.364 24"/>
+        <polyline stroke="#021B44" points="211.909 24 211.909 46 181.636 46 181.636 24 181.636 24"/>
+        <polyline stroke="#021B44" points="242.182 24 242.182 46 211.909 46 211.909 24 211.909 24"/>
+        <polyline stroke="#021B44" points="272.455 24 272.455 46 242.182 46 242.182 24 242.182 24"/>
+        <polyline stroke="#021B44" points="302.727 24 302.727 46 272.455 46 272.455 24 272.455 24"/>
+        <polyline stroke="#021B44" points="333 24 333 46 302.727 46 302.727 24 302.727 24"/>
+        <text fill="red" font-family="ArialNarrow-Bold, Arial Narrow" font-size="41" font-weight="bold" letter-spacing="11.4">
+          <tspan x="7" y="38">97309210827</tspan>
+        </text>
+      </g>
+      <text fill="#021B44" font-family="ArialNarrow, Arial Narrow" font-size="14">
+        <tspan x="0" y="27">Codice fiscale del</tspan> <tspan x="0" y="43">beneficiario (eventuale)</tspan>
+      </text>
+    </g>
+    <text fill="#021B44" font-family="ArialNarrow-Bold, Arial Narrow" font-size="14" font-weight="bold">
+      <tspan x="81.469" y="35">SOSTEGNO DEL VOLONTARIATO E DELLE ALTRE ORGANIZZAZIONI</tspan> <tspan x="46.951" y="51">NON LUCRATIVE DI ULITLITÀ SOCIALE, DELLE ASSOCIAZIONE DI PROMOZIONE</tspan> <tspan x="43.656" y="67">SOCIALE E DELLE ASSOCIAZIONI E FONDAZIONI RICONOSCIUTE CHE OPERANO</tspan> <tspan x="61.334" y="83">NEI SETTORI DI CUI ALL’ART. 10, C. 1, LETT A), DEL D.LGS. N. 460 DEL 1997</tspan>
+    </text>
+    <g transform="translate(36 135)">
+      <text fill="#021B44" font-family="ArialNarrow, Arial Narrow" font-size="14">
+        <tspan x=".145" y="13">FIRMA</tspan>
+      </text>
+      <path stroke="#021B44" stroke-dasharray="1 4" d="M47,15 L468,15"/>
+    </g>
+  </g>
+</svg>
